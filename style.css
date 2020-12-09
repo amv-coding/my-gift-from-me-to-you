@@ -1,0 +1,12 @@
+h3 {
+text-align: center;
+}
+.navbar  .navbar-nav {
+    color: linear-gradient(45deg,#ff0000 ,#fff, #008000) !important;
+}
+#home, #profile, #messages , #settings {
+    font-style: monospace;
+}
+#shaman{
+    font-style: papyrus;
+}
